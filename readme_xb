@@ -1,0 +1,22 @@
+mpi doc:
+
+
+int MPI_Send(const void *buf, int count, MPI_Datatype type, int dest, int tag, MPI_Comm comm)
+    ompi_comm_peer_invalid(comm, dest)
+    MCA_PML_CALL(send(buf, count, type, dest, tag, MCA_PML_BASE_SEND_STANDARD, comm)) -> mca_pml.pml_send(buf, count, type, dest, tag, MCA_PML_BASE_SEND_STANDARD, comm)
+        mca_pml_cm_send
+            
+MPI_Recv
+
+
+OpenMPI Libfabric RDMA verbs: 
+/home/xb/project/net/ompi/ompi/mca/mtl/ofi/README.md
+... mtl_ofi_provider_include "verbs;ofi_rxm" ...
+
+
+mpirun:
+ompi/tools/mpirun/main.c
+    ret = execv(full_prterun_path, prterun_args)
+
+opal: abs layer?
+
