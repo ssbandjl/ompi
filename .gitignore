@@ -786,3 +786,6 @@ opal/test/reachable/reachable_netlink
 opal/test/reachable/reachable_weighted
 
 docs/_build
+
+
+.vscode
