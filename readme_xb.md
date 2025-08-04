@@ -47,4 +47,72 @@ RDMA Stack trace (depth: 14):
 
 root@gdr114:~/project/mpi/ompi# addr2line -e /usr/lib/x86_64-linux-gnu/openmpi/lib/openmpi3/mca_btl_ofi.so 0x41b6 -f -C
 mca_btl_ofi_add_procs
-/build/openmpi-fMmw3z/openmpi-4.1.6
+/build/openmpi-fMmw3z/openmpi-4.1.6/debian/build-gfortran/opal/mca/btl/ofi/../../../../../../opal/mca/btl/ofi/btl_ofi_module.c:91
+
+static int mca_btl_ofi_add_procs (mca_btl_base_module_t *btl,
+                                  size_t nprocs, opal_proc_t **opal_procs,
+                                  mca_btl_base_endpoint_t **peers,
+                                  opal_bitmap_t *reachable)
+{
+    int rc;
+    int count;
+    char *ep_name = NULL;
+    size_t namelen = mca_btl_ofi_component.namelen;
+
+    opal_proc_t *proc;
+    mca_btl_base_endpoint_t *ep;
+
+    mca_btl_ofi_module_t *ofi_btl = (mca_btl_ofi_module_t *) btl;
+
+    for (size_t i = 0 ; i < nprocs ; ++i) {
+
+        proc = opal_procs[i];
+
+        /* See if we already have an endpoint for this proc. */
+        rc = opal_hash_table_get_value_uint64 (&ofi_btl->id_to_endpoint, (intptr_t) proc, (void **) &ep);
+
+        if (OPAL_SUCCESS == rc) {
+            BTL_VERBOSE(("returning existing endpoint for proc %s", OPAL_NAME_PRINT(proc->proc_name)));
+            peers[i] = ep;
+
+        } else {
+            /* We don't have this endpoint yet, create one */
+            peers[i] = mca_btl_ofi_endpoint_create (proc, ofi_btl->ofi_endpoint);
+            BTL_VERBOSE(("creating peer %p", (void*) peers[i]));
+
+            if (OPAL_UNLIKELY(NULL == peers[i])) {
+                return OPAL_ERR_OUT_OF_RESOURCE;
+            }
+
+            /* Add this endpoint to the lookup table */
+            (void) opal_hash_table_set_value_uint64 (&ofi_btl->id_to_endpoint, (intptr_t) proc, (void**) &ep);
+        }
+
+        OPAL_MODEX_RECV(rc, &mca_btl_ofi_component.super.btl_version,
+                        &peers[i]->ep_proc->proc_name, (void **)&ep_name, &namelen);
+        if (OPAL_SUCCESS != rc) {
+            BTL_ERROR(("error receiving modex"));
+            MCA_BTL_OFI_ABORT();
+        }
+
+        /* get peer fi_addr  获取对端地址并插入向量表 */
+        count = fi_av_insert(ofi_btl->av,      /* Address vector to insert */
+                             ep_name,          /* peer name */
+                             1,                /* amount to insert */
+                             &peers[i]->peer_addr, /* return peer address here */
+                             0,                /* flags */
+                             NULL);            /* context */
+
+        /* if succeed, add this proc and mark reachable */
+        if (count == 1) { /* we inserted 1 address. */
+            opal_list_append (&ofi_btl->endpoints, &peers[i]->super);
+            opal_bitmap_set_bit(reachable, i);
+        } else {
+            BTL_VERBOSE(("fi_av_insert failed with rc = %d", count));
+            MCA_BTL_OFI_ABORT();
+        }
+    }
+
+    return OPAL_SUCCESS;
+}
+
