@@ -1,0 +1,581 @@
+Authorization required, but no authorization protocol specified
+
+Authorization required, but no authorization protocol specified
+
+Authorization required, but no authorization protocol specified
+
+Authorization required, but no authorization protocol specified
+
+Authorization required, but no authorization protocol specified
+
+Authorization required, but no authorization protocol specified
+
+[gdr114:11935] MCW rank 0 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../../../../../../../../../..][../../../../../../../../../../../../../..]
+[gdr114:11935] MCW rank 1 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../../../../../../../../../..][../../../../../../../../../../../../../..]
+[gdr114:11935] MCW rank 2 bound to socket 0[core 2[hwt 0-1]]: [../../BB/../../../../../../../../../../..][../../../../../../../../../../../../../..]
+[gdr114:11935] MCW rank 3 bound to socket 0[core 3[hwt 0-1]]: [../../../BB/../../../../../../../../../..][../../../../../../../../../../../../../..]
+[gdr116:10860] MCW rank 7 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../../../../../../../../../..][../../../../../../../../../../../../../..]
+[gdr116:10859] MCW rank 4 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../../../../../../../../../..][../../../../../../../../../../../../../..]
+[gdr116:10860] MCW rank 6 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../../../../../../../../../..][../../../../../../../../../../../../../..]
+[gdr116:10859] MCW rank 5 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../../../../../../../../../..][../../../../../../../../../../../../../..]
+[gdr114] tid:11965, main(), common.cu:701, NCCL version: 22606, CUDA Runtime Version: 12.9, CUDA Driver Version: 12.9
+[gdr114] tid:11966, main(), common.cu:701, NCCL version: 22606, CUDA Runtime Version: 12.9, CUDA Driver Version: 12.9
+[gdr116] tid:10863, main(), common.cu:701, NCCL version: 22606, CUDA Runtime Version: 12.0, CUDA Driver Version: 12.9
+[gdr116] tid:10864, main(), common.cu:701, NCCL version: 22606, CUDA Runtime Version: 12.0, CUDA Driver Version: 12.9
+[gdr114] tid:11967, main(), common.cu:701, NCCL version: 22606, CUDA Runtime Version: 12.9, CUDA Driver Version: 12.9
+[gdr116] tid:10866, main(), common.cu:701, NCCL version: 22606, CUDA Runtime Version: 12.0, CUDA Driver Version: 12.9
+[gdr116] tid:10865, main(), common.cu:701, NCCL version: 22606, CUDA Runtime Version: 12.0, CUDA Driver Version: 12.9
+[gdr114] tid:11970, main(), common.cu:701, NCCL version: 22606, CUDA Runtime Version: 12.9, CUDA Driver Version: 12.9
+Authorization required, but no authorization protocol specified
+
+Authorization required, but no authorization protocol specified
+
+Authorization required, but no authorization protocol specified
+
+Authorization required, but no authorization protocol specified
+
+Authorization required, but no authorization protocol specified
+
+Authorization required, but no authorization protocol specified
+
+Authorization required, but no authorization protocol specified
+
+Authorization required, but no authorization protocol specified
+
+Authorization required, but no authorization protocol specified
+
+Authorization required, but no authorization protocol specified
+
+Authorization required, but no authorization protocol specified
+
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs0, name:xtrdma_0
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9582 not exists, now remove huge file:/dev/hugepages/huge_file_9582_1754017184_0x5f5f18418660_931129486
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9582 not exists, now remove huge file:/dev/hugepages/huge_file_9582_1754017184_0x5f5f18407e40_763121216
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9582 not exists, now remove huge file:/dev/hugepages/huge_file_9582_1754017184_0x5f5f183f7620_1956121666
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9582 not exists, now remove huge file:/dev/hugepages/huge_file_9582_1754017184_0x5f5f183e6e00_300428260
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9582 not exists, now remove huge file:/dev/hugepages/huge_file_9582_1754017184_0x5f5f183d65e0_503923464
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs0, name:xtrdma_0
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9581 not exists, now remove huge file:/dev/hugepages/huge_file_9581_1754017184_0x636d270bd0f0_485391263
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9582 not exists, now remove huge file:/dev/hugepages/huge_file_9582_1754017184_0x5f5f183c5dc0_570116406
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9581 not exists, now remove huge file:/dev/hugepages/huge_file_9581_1754017184_0x636d270ac8d0_1485688559
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9582 not exists, now remove huge file:/dev/hugepages/huge_file_9582_1754017184_0x5f5f183b55a0_1278784928
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9581 not exists, now remove huge file:/dev/hugepages/huge_file_9581_1754017184_0x636d2709c0b0_1064210772
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9582 not exists, now remove huge file:/dev/hugepages/huge_file_9582_1754017184_0x5f5f183a4d80_1551046252
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9581 not exists, now remove huge file:/dev/hugepages/huge_file_9581_1754017184_0x636d2708b890_1303935722
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9581 not exists, now remove huge file:/dev/hugepages/huge_file_9581_1754017184_0x636d2707b070_42347689
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9581 not exists, now remove huge file:/dev/hugepages/huge_file_9581_1754017184_0x636d2706a850_557941692
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9581 not exists, now remove huge file:/dev/hugepages/huge_file_9581_1754017184_0x636d2705a030_1963462549
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9581 not exists, now remove huge file:/dev/hugepages/huge_file_9581_1754017184_0x636d27049810_1725440925
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017184_0x5db2c17b1170_1522839531
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9581 not exists, now remove huge file:/dev/hugepages/huge_file_9581_1754017184_0x636d2707b070_42347689
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9581 not exists, now remove huge file:/dev/hugepages/huge_file_9581_1754017184_0x636d2706a850_557941692
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9581 not exists, now remove huge file:/dev/hugepages/huge_file_9581_1754017184_0x636d2705a030_1963462549
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9581 not exists, now remove huge file:/dev/hugepages/huge_file_9581_1754017184_0x636d27049810_1725440925
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017184_0x5db2c17b1170_1522839531
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017184_0x5db2c17a0950_700635090
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017184_0x5db2c1790130_775280344
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017184_0x5db2c17a0950_700635090
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017184_0x5db2c1790130_775280344
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017184_0x5db2c177f910_1154378186
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017184_0x5806039420b0_2073674717
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017184_0x5db2c177f910_1154378186
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017184_0x5806039420b0_2073674717
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017184_0x5db2c176f0f0_82113864
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017184_0x580603931890_952754570
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017184_0x5db2c175e8d0_112948840
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017184_0x5db2c176f0f0_82113864
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017184_0x580603931890_952754570
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017184_0x5db2c175e8d0_112948840
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017184_0x580603921070_1744783365
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017184_0x580603921070_1744783365
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017184_0x5db2c174e0b0_1015541181
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs0, name:xtrdma_0
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017184_0x5db2c174e0b0_1015541181
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017184_0x580603910850_1972541283
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017184_0x5db2c173d890_212215373
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017184_0x580603900030_1214511415
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017184_0x580603910850_1972541283
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017184_0x5db2c173d890_212215373
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017184_0x580603900030_1214511415
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017184_0x5806038ef810_827911429
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017184_0x5806038deff0_2059523115
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017184_0x5806038ce7d0_1043795095
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017184_0x5806038ef810_827911429
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017184_0x5806038deff0_2059523115
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017184_0x5806038ce7d0_1043795095
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9582 not exists, now remove huge file:/dev/hugepages/huge_file_9582_1754017183_0x5f5f1837e9d0_1374473898
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9581 not exists, now remove huge file:/dev/hugepages/huge_file_9581_1754017183_0x636d27023460_1898515565
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9582 not exists, now remove huge file:/dev/hugepages/huge_file_9582_1754017183_0x5f5f1837e9d0_1374473898
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9581 not exists, now remove huge file:/dev/hugepages/huge_file_9581_1754017183_0x636d27023460_1898515565
+[gdr114] tid:11965, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017183_0x5806038a8420_286432224
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017183_0x5806038a8420_286432224
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017183_0x5806038a8420_286432224
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017183_0x5db2c1717500_1475141602
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017183_0x5db2c1717500_1475141602
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9582 not exists, now remove huge file:/dev/hugepages/huge_file_9582_1754017183_0x5f5f18367820_1902892979
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9581 not exists, now remove huge file:/dev/hugepages/huge_file_9581_1754017183_0x636d2700c2b0_1742352430
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017183_0x5db2c1700320_717092008
+[gdr114] tid:11965, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017183_0x5db2c1717500_1475141602
+[gdr114] tid:11965, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9582 not exists, now remove huge file:/dev/hugepages/huge_file_9582_1754017183_0x5f5f18367820_1902892979
+[gdr114] tid:11965, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9581 not exists, now remove huge file:/dev/hugepages/huge_file_9581_1754017183_0x636d2700c2b0_1742352430
+[gdr114] tid:11965, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017183_0x5db2c1700320_717092008
+[gdr114] tid:11965, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017183_0x580603891270_302950735
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9582 not exists, now remove huge file:/dev/hugepages/huge_file_9582_1754017183_0x5f5f18367820_1902892979
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9581 not exists, now remove huge file:/dev/hugepages/huge_file_9581_1754017183_0x636d2700c2b0_1742352430
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9584 not exists, now remove huge file:/dev/hugepages/huge_file_9584_1754017183_0x5db2c1700320_717092008
+[gdr114] tid:11966, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017183_0x580603891270_302950735
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2ebb7e0_657083815
+[gdr114] tid:11967, huge_clear_no_use_file(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:100, pid:9583 not exists, now remove huge file:/dev/hugepages/huge_file_9583_1754017183_0x580603891270_302950735
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017666_0x5a392e5a8370_1541707611
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a17370_1447500059
+Authorization required, but no authorization protocol specified
+
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs0, name:xtrdma_0
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017666_0x5cb3c0831390_70483962
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:2, actrue_cqe:1023
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            gdr114
+  Device name:           xtrdma_0
+  Device vendor ID:      0x10ee
+  Device vendor part ID: 36920
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs1, name:xtrdma_1
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs1, name:xtrdma_1
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs1, name:xtrdma_1
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2ed2990_1150725272
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a2e520_320413173
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017666_0x5a392e5bf550_736211852
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_1, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_1, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_1, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs2, name:xtrdma_2
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs2, name:xtrdma_2
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a2e520_150524478
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2ed2990_1315409928
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs1, name:xtrdma_1
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017666_0x5cb3c0848540_1826163830
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs2, name:xtrdma_2
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017666_0x5a392e5bf550_1146711155
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_2, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_2, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_1, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_2, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs3, name:xtrdma_3
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs3, name:xtrdma_3
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2ed2990_354348309
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a2e520_1144535229
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_3, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_3, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs3, name:xtrdma_3
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017666_0x5a392e5bf550_472236790
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs4, name:xtrdma_4
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a2e520_1765794441
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs4, name:xtrdma_4
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2ed2990_1238793482
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs2, name:xtrdma_2
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017666_0x5cb3c0848540_238162180
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_3, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_2, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs5, name:xtrdma_5
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs5, name:xtrdma_5
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a548d0_850712215
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2ef8d40_346583312
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs4, name:xtrdma_4
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017666_0x5a392e5bf550_1391845157
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_5, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_5, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs3, name:xtrdma_3
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017666_0x5cb3c0848540_16582963
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs6, name:xtrdma_6
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2ef8d40_245754608
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_3, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs6, name:xtrdma_6
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a548d0_966955824
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_6, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_6, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs7, name:xtrdma_7
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2ef8d40_1548781550
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_7, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs7, name:xtrdma_7
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a548d0_709984961
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs5, name:xtrdma_5
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017666_0x5a392e5e58e0_249668174
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs4, name:xtrdma_4
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017666_0x5cb3c0848540_138959900
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_7, need_cqe:2, actrue_cqe:1023
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           gdr114
+  Local device:         xtrdma_0
+  Local port:           1
+  CPCs attempted:       udcm
+--------------------------------------------------------------------------
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_5, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs6, name:xtrdma_6
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017666_0x5a392e5e58e0_1870423614
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs5, name:xtrdma_5
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017666_0x5cb3c086e8f0_2001824646
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_6, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_5, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs7, name:xtrdma_7
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017666_0x5a392e5e58e0_1435379876
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs6, name:xtrdma_6
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017666_0x5cb3c086e8f0_433558659
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_7, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_6, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs7, name:xtrdma_7
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017666_0x5cb3c086e8f0_1807423323
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs0, name:xtrdma_0
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2ef8d40_1906086754
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_7, need_cqe:2, actrue_cqe:1023
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs0, name:xtrdma_0
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2ef8d40_1832856387
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs1, name:xtrdma_1
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2ef8d40_1684407492
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs2, name:xtrdma_2
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2ef8d40_1895312009
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs0, name:xtrdma_0
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a548d0_1861017629
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs3, name:xtrdma_3
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2ef8d40_1996816398
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs4, name:xtrdma_4
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2ef8d40_1746862077
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs0, name:xtrdma_0
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a548d0_529054787
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs5, name:xtrdma_5
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2ef8d40_10369730
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs1, name:xtrdma_1
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a548d0_1761818569
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs6, name:xtrdma_6
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2ef8d40_1424504246
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs2, name:xtrdma_2
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a548d0_976768440
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs7, name:xtrdma_7
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2ef8d40_814289983
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs3, name:xtrdma_3
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a548d0_303801205
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs0, name:xtrdma_0
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2ef8d40_2117790956
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs4, name:xtrdma_4
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a548d0_2103285220
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs1, name:xtrdma_1
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2f09560_1160174457
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs5, name:xtrdma_5
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a548d0_962148495
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs2, name:xtrdma_2
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2f19d80_248717841
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs6, name:xtrdma_6
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a548d0_527109768
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs3, name:xtrdma_3
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2f2a5a0_1061949928
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs7, name:xtrdma_7
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a548d0_1100501462
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs4, name:xtrdma_4
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2f3adc0_641540901
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs0, name:xtrdma_0
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a548d0_286131097
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs5, name:xtrdma_5
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2f4b5e0_669698591
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs1, name:xtrdma_1
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a650f0_282399355
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs6, name:xtrdma_6
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2f5be00_1455511146
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs2, name:xtrdma_2
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a75910_1027776449
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs7, name:xtrdma_7
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017666_0x5c5ea2f6c620_1484203125
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs3, name:xtrdma_3
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a86130_797520704
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs4, name:xtrdma_4
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569a96950_956526549
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs5, name:xtrdma_5
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569aa7170_522731894
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs6, name:xtrdma_6
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569ab7990_1699257761
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs7, name:xtrdma_7
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017666_0x5e7569ac81b0_744834368
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs0, name:xtrdma_0
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017666_0x5a392e5e58e0_1026642217
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs0, name:xtrdma_0
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017666_0x5a392e5e58e0_1256380585
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs1, name:xtrdma_1
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017666_0x5a392e5e58e0_1885246226
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs2, name:xtrdma_2
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017666_0x5a392e5e58e0_1643461210
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs3, name:xtrdma_3
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017666_0x5a392e5e58e0_1773504500
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs4, name:xtrdma_4
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017666_0x5a392e5e58e0_1860751923
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs5, name:xtrdma_5
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017667_0x5a392e5e58e0_1672311904
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs6, name:xtrdma_6
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017667_0x5a392e5e58e0_1463549410
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs0, name:xtrdma_0
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017667_0x5cb3c086e8f0_782259663
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs7, name:xtrdma_7
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017667_0x5a392e5e58e0_654001612
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs0, name:xtrdma_0
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017667_0x5a392e5e58e0_1898550862
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs0, name:xtrdma_0
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017667_0x5cb3c086e8f0_1851188305
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs1, name:xtrdma_1
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017667_0x5a392e5f6100_164030377
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs1, name:xtrdma_1
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017667_0x5cb3c086e8f0_1450057314
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs2, name:xtrdma_2
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017667_0x5a392e606920_392805490
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs2, name:xtrdma_2
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017667_0x5cb3c086e8f0_1247944627
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs3, name:xtrdma_3
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017667_0x5a392e617140_1730245261
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs3, name:xtrdma_3
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017667_0x5cb3c086e8f0_381847860
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs4, name:xtrdma_4
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017667_0x5a392e627960_1351075418
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs4, name:xtrdma_4
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017667_0x5cb3c086e8f0_1216084418
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs5, name:xtrdma_5
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017667_0x5a392e638180_1236681022
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs5, name:xtrdma_5
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017667_0x5cb3c086e8f0_501425196
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs6, name:xtrdma_6
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017667_0x5a392e6489a0_1750433602
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs6, name:xtrdma_6
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017667_0x5cb3c086e8f0_222708642
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs7, name:xtrdma_7
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017667_0x5a392e6591c0_811584594
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs7, name:xtrdma_7
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017667_0x5cb3c086e8f0_1347696347
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs0, name:xtrdma_0
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017667_0x5cb3c086e8f0_836592874
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs1, name:xtrdma_1
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017667_0x5cb3c087f110_1482260042
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_1, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_1, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs2, name:xtrdma_2
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017667_0x5cb3c088f930_1283179428
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_1, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_1, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs3, name:xtrdma_3
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017667_0x5cb3c08a0150_698155340
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs4, name:xtrdma_4
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017667_0x5cb3c08b0970_1609481035
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_1, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_1, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_1, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_1, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs5, name:xtrdma_5
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017667_0x5cb3c08c1190_1472934244
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs6, name:xtrdma_6
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017667_0x5cb3c08d19b0_19867387
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs7, name:xtrdma_7
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017667_0x5cb3c08e21d0_700073801
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_2, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_2, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_2, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_2, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_2, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_2, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_2, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_2, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_1, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_3, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_1, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_3, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_3, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_3, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_3, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_3, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_3, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_3, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_1, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_1, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_1, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_1, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_2, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_2, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_1, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_1, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_5, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_5, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_5, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_5, need_cqe:1, actrue_cqe:1023
+Authorization required, but no authorization protocol specified
+
+Authorization required, but no authorization protocol specified
+
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_5, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_5, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_5, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_5, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_6, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_6, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_6, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_6, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_2, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_2, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_2, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_2, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_3, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_3, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_2, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_2, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_6, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_6, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_6, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_6, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_7, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_7, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_7, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_7, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_7, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_7, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_7, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_7, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11965, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs0, name:xtrdma_0
+[gdr114] tid:11965, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11965_1754017668_0x5c5ea2f7ce40_511588968
+[gdr114] tid:11965, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:768, actrue_cqe:1023
+[gdr114] tid:11966, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs0, name:xtrdma_0
+[gdr114] tid:11966, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11966_1754017668_0x5e7569ad89d0_1901711169
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_3, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11966, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:768, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_3, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_3, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_3, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_3, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_3, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_5, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_5, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:1, actrue_cqe:1023
+Authorization required, but no authorization protocol specified
+
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_5, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_5, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_5, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_5, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_6, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_6, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_5, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_5, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_6, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_6, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_6, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_6, need_cqe:1, actrue_cqe:1023
+[gdr114:11935] 55 more processes have sent help message help-mpi-btl-openib.txt / no device params found
+[gdr114:11935] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[gdr114:11935] 13 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_7, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_7, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_6, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_6, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_7, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_7, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_7, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_7, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11967, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs0, name:xtrdma_0
+[gdr114] tid:11967, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11967_1754017671_0x5a392e6699e0_1909437868
+[gdr114] tid:11967, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_0, need_cqe:768, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_7, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_7, need_cqe:1, actrue_cqe:1023
+[gdr114] tid:11970, xtrdma_ualloc_context(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/umain.c:237, Open dev_name:uverbs0, name:xtrdma_0
+[gdr114] tid:11970, huge_mem_init(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/huge_mem.c:139, Huge map file /dev/hugepages/huge_file_11970_1754017672_0x5cb3c08f29f0_2146561268
+[gdr114] tid:11970, ucreate_cq(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/ucq.c:220, dev_name:xtrdma_4, need_cqe:768, actrue_cqe:1023
+Authorization required, but no authorization protocol specified
+
+[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:122, VERBS: ibv_cmd_create_ah success !!!err 0 attr.global:1 sgid_idx:0
+[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:126, DGID: [gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, fe:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 80:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 02:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 01:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 02:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, ff:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, fe:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, d4:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 01
+[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:132, DMAC (from GID): 02:01:02:d4:00:01
+[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:122, VERBS: ibv_cmd_create_ah success !!!err 0 attr.global:1 sgid_idx:0
+[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:126, DGID: [gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, fe:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 80:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 02:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 01:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 02:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, ff:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, fe:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, d4:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 01
+[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:132, DMAC (from GID): 02:01:02:d4:00:01
+[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:122, VERBS: ibv_cmd_create_ah success !!!err 0 attr.global:1 sgid_idx:0
+[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:126, DGID: [gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, fe:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 80:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 02:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 01:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 02:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, ff:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, fe:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, d4:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 01
+[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:132, DMAC (from GID): 02:01:02:d4:00:01
+[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:122, VERBS: ibv_cmd_create_ah success !!!err 0 attr.global:1 sgid_idx:0
+[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:126, DGID: [gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, fe:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 80:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 02:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 01:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 02:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, ff:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, fe:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, d4:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 01
+[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:132, DMAC (from GID): 02:01:02:d4:00:01
+[gdr114] tid:11970, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:120, VERBS: ibv_cmd_create_ah err 110 attr.global:1 sgid_idx:0
+[gdr114] tid:11966, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:120, VERBS: ibv_cmd_create_ah err 110 attr.global:1 sgid_idx:0
+[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:120, VERBS: ibv_cmd_create_ah err 110 attr.global:1 sgid_idx:0
+[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:126, DGID: [gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, fe:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 80:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/pr[gdr114][[31258,1],2][../../../../../../opal/mca/btl/ofi/btl_ofi_component.c:243:mca_btl_ofi_exit] BTL OFI will now abort.
+[gdr114][[31258,1],1][../../../../../../opal/mca/btl/ofi/btl_ofi_component.c:243:mca_btl_ofi_exit] BTL OFI will now abort.
+[gdr114][[31258,1],3][../../../../../../opal/mca/btl/ofi/btl_ofi_component.c:243:mca_btl_ofi_exit] BTL OFI will now abort.
+[gdr114][[31258,1],0][../../../../../../opal/mca/btl/ofi/btl_ofi_component.c:243:mca_btl_ofi_exit] BTL OFI will now abort.
+[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:120, VERBS: ibv_cmd_create_ah err 110 attr.global:1 sgid_idx:0
+[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:126, DGID: [gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, fe:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 80:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 02:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 01:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 02:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, ff:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, fe:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, db:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 01
+[gdr114] tid:11967, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:132, DMAC (from GID): 02:01:02:db:00:01
+[gdr114] tid:11970, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:126, DGID: [gdr114] tid:11970, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, fe:[gdr114] tid:11970, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 80:[gdr114] tid:11970, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11970, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11970, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11970, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11970, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11970, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11970, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 02:[gdr114] tid:11970, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 01:[gdr114] tid:11970, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 02:[gdr114] tid:11970, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, ff:[gdr114] tid:11970, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, fe:[gdr114] tid:11970, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, d4:[gdr114] tid:11970, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11970, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 01
+[gdr114] tid:11970, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:132, DMAC (from GID): 02:01:02:d4:00:01
+[gdr114] tid:11966, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:126, DGID: [gdr114] tid:11966, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, fe:[gdr114] tid:11966, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 80:[gdr114] tid:11966, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11966, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11966, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11966, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11966, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11966, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11966, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 02:[gdr114] tid:11966, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 01:[gdr114] tid:11966, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 02:[gdr114] tid:11966, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, ff:[gdr114] tid:11966, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, fe:[gdr114] tid:11966, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, d4:[gdr114] tid:11966, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11966, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 01
+[gdr114] tid:11966, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:132, DMAC (from GID): 02:01:02:d4:00:01
+oject/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 02:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 01:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 02:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, ff:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, fe:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, db:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 00:[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:128, 01
+[gdr114] tid:11965, xtrdma_ucreate_ah(), /root/project/rdma/dpu_user_rdma/providers/xtrdma/uverbs.c:132, DMAC (from GID): 02:01:02:db:00:01
+[gdr116][[31258,1],4][../../../../../../opal/mca/btl/ofi/btl_ofi_component.c:243:mca_btl_ofi_exit] BTL OFI will now abort.
+[gdr116][[31258,1],7][../../../../../../opal/mca/btl/ofi/btl_ofi_component.c:243:mca_btl_ofi_exit] BTL OFI will now abort.
+[gdr116][[31258,1],6][../../../../../../opal/mca/btl/ofi/btl_ofi_component.c:243:mca_btl_ofi_exit] BTL OFI will now abort.
+[gdr116][[31258,1],5][../../../../../../opal/mca/btl/ofi/btl_ofi_component.c:243:mca_btl_ofi_exit] BTL OFI will now abort.
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[31258,1],2]
+  Exit code:    1
+--------------------------------------------------------------------------
+[gdr114:11935] 8 more processes have sent help message help-mpi-btl-openib.txt / no device params found
+[gdr114:11935] 2 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
