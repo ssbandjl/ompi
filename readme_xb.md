@@ -116,3 +116,12 @@ static int mca_btl_ofi_add_procs (mca_btl_base_module_t *btl,
     return OPAL_SUCCESS;
 }
 
+
+
+# main
+root@gdr114:~/project/mpi/ompi# find . -name orterun
+./orte/tools/orterun
+./orte/tools/orterun/.libs/orterun
+./orte/tools/orterun/orterun
+root@gdr114:~/project/mpi/ompi# 
+
